@@ -24,7 +24,7 @@ the behavior of a cloud storage service.
 Key simulation features include:
 * Tracking storage capacity and usage.
 * Managing network bandwidth and utilization.
-* Simulating realistic, chunk-based file transfer operations.
+* Simulating realistic, chunk-based file transfer  operations.
 * Providing metrics for resource utilization.
 
 This tool can be used to test storage management strategies, network performance,
